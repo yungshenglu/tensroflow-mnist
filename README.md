@@ -1,4 +1,4 @@
-# MNIST
+# TensorFlow MNIST
 
 This repository is going to use TensorFlow to train the MNIST network.
 
