@@ -19,7 +19,7 @@ mnist/
 ---
 ## Installation
 
-> **Notice:** The following instructions are for installing on Ubuntu 16.04
+> The following instructions are for installing on **Ubuntu Linux 16.04**
 
 ### TensorFlow
 
